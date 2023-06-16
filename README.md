@@ -1,4 +1,4 @@
 # alpha_chatbot
 
-![image](https://github.com/MUHAMMEDHAFEEZ/alpha_chatbot/assets/125500179/36708bd7-a89f-4f15-b953-080bde70f7e0)
+![Screenshot1](https://github.com/MUHAMMEDHAFEEZ/alpha_chatbot/assets/125500179/9f0171ab-b1b8-4c62-b4d5-64157e9141e8)
 
